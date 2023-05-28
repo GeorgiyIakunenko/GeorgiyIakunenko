@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Georgiy Iakunenko</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello everyone!) 👋, I'm Georgiy Iakunenko</h1>
+<h3 align="center">A Computer Science student in Budapest</h3>
 
 - 🔭 I’m currently working on **Full Stack food delivery application Vue + Go**
 
